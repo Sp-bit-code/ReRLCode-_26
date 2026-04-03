@@ -1,7 +1,3 @@
-Here is a clean, professional **GitHub README description** you can directly use:
-
----
-
 # Smart Predictive Irrigation using Q-Learning
 
 ## What is this project
